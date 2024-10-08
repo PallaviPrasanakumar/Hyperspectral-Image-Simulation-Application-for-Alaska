@@ -1,5 +1,5 @@
 # Hyperspectral-Image-Simulation-Application-for-Alaska
-__About the Application__
+__About the Application__   
 True hyperspectral imagery, which captures a wide range of the electromagnetic spectrum with narrow spectral bands, is not as readily available as multispectral data. Satellites capable of capturing hyperspectral data are limited, making it challenging for researchers to access this valuable data regularly.
 
 This application leverages Google Earth Engine to generate low-cost hyperspectral simulated Data from Sentinel-2 multispectral imagery, focusing on enhancing users ability to access hyperspectral data. Users can interactively select areas of interest within Alaska, adjust parameters such as cloud coverage, and choose specific image dates for detailed examination. The interface has tools for area of interest, sliders for filtering images based on cloud cover, and dropdowns for selecting dates. The application supports downloading and exporting of both Sentinel and Hyperspectral images and includes advanced functionalities like RGB and False Color Composite (FCC) visualizations download options. It’s designed to provide researchers, educators, and environmental scientists with a powerful tool for remote sensing and environmental monitoring, directly from their web browsers.
