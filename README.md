@@ -8,9 +8,9 @@ The URL of the Application : https://pprasannakumar.users.earthengine.app/view/h
 This document contains the details of using the application:[Hysim documentation.pdf](https://github.com/user-attachments/files/17289974/Hysim.documentation.pdf)  
 The repository contains two files Application.js and Acess to code.js.
 
-Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.
+Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.  
 __git clone https://earthengine.googlesource.com/users/pprasannakumar/Alaska_Hysim__ 
-To do this, navigate to the directory where you'd like to download the folder in Git Bash, and then run the command.
-For example, if you want to download it to your Desktop, you can move to the Desktop by using the command:
-~cd Desktop
+To do this, navigate to the directory where you'd like to download the folder in Git Bash, and then run the command.  
+For example, if you want to download it to your Desktop, you can move to the Desktop by using the command:  
+~cd Desktop  
 After you're in the desired location, simply run the clone command above to download the repository.
