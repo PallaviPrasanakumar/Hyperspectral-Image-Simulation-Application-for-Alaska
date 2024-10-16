@@ -6,7 +6,11 @@ This application leverages Google Earth Engine to generate low-cost hyperspectra
 
 __The URL of the Application__ : https://pprasannakumar.users.earthengine.app/view/hysim  
 This document contains the details of using the application:[Hysim documentation.pdf](https://github.com/user-attachments/files/17289974/Hysim.documentation.pdf)  
-The repository contains two files Application.js and Acess to code.js.
+The repository contains two files Application.js and Acess to code.js .The files can only run in GEE code editor.
+This document contains how to run these files once downlaoded.
+
+Link to code editor: https://code.earthengine.google.com/
+To use GEE code editor from Google Earth Engine,one must have a account.Link to register : https://code.earthengine.google.com/register.
 
 Alternatively ,You can directly download the folder Alaska_Hysim (which contains the above two files) on your local machine by running the following the command on your git bash.  
 __git clone https://earthengine.googlesource.com/users/pprasannakumar/Alaska_Hysim__ 
