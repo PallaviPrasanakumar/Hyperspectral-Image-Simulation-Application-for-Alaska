@@ -7,7 +7,9 @@ This application leverages Google Earth Engine to generate low-cost hyperspectra
 __The URL of the Application__ : https://pprasannakumar.users.earthengine.app/view/hysim  
 This document contains the details of using the application:[Hysim documentation.pdf](https://github.com/user-attachments/files/17289974/Hysim.documentation.pdf)  
 The repository contains two files Application.js and Acess to code.js .The files can only run in GEE code editor.
-This document contains how to run these files once downlaoded.
+This document contains how to run these files once downlaoded.[GEE Earth Engine Application.docx](https://github.com/user-attachments/files/17401969/GEE.Earth.Engine.Application.docx)
+
+
 
 Link to code editor: https://code.earthengine.google.com/
 To use GEE code editor from Google Earth Engine,one must have a account.Link to register : https://code.earthengine.google.com/register.
